@@ -1,6 +1,6 @@
 # Explanation of File Sharing App
 
-<p>Technogies used: node, express, ejs, bcrypt, multer</p>
+<p>Technogies used: node, express, ejs, bcrypt, multer, mongoose</p>
 
 ![image](https://user-images.githubusercontent.com/59326871/213845473-c29693dd-10cc-4880-8137-3a96a5ae27a9.png)
 
